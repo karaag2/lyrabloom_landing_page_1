@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "vision": "Vision",
+    "process": "Processus",
+    "contact": "Contact",
+    "navigation": "Navigation",
+    "language": "Langue",
+    "appearance": "Apparence",
+    "location_label": "Localisation",
+    "studio": "Studio",
+    "close": "Fermer",
+    "menu": "Menu"
+  },
+  "hero": {
+    "location": "Niamey, Niger",
+    "title": "Un Art qui vous ressemble.",
+    "description": "Tableaux décoratifs façonnés à la main dans notre atelier de Niamey. Nous marions le minimalisme moderne à la richesse des textures organiques pour créer des pièces uniques qui font de votre maison un véritable foyer.",
+    "cta": "Explorer la Collection",
+    "works_in_collection": "Œuvres en Collection",
+    "artifacts_count": "91+ Artéfacts"
+  },
+  "vision": {
+    "badge": "Notre Essence",
+    "text": "Lyrabloom est né d'une conviction simple : votre espace doit vous inspirer. Nous allions le design contemporain aux textures brutes de notre terre pour créer des œuvres puissantes qui apportent caractère et chaleur à tout intérieur.",
+    "foundation": "Fondation",
+    "essence": "Esprit",
+    "location": "Atelier Niamey",
+    "essence_text": "Terre & Art",
+    "roots": "RACINES",
+    "alt_interior": "Tableau Lyrabloom dans un intérieur"
+  },
+  "process": {
+    "step1": {
+      "title": "1. Votre Vision, Notre Guide",
+      "desc": "Chaque œuvre commence par un dialogue. Nous étudions votre espace, votre lumière et votre palette de couleurs pour que votre tableau s'intègre naturellement à votre intérieur."
+    },
+    "step2": {
+      "title": "2. Façonné avec Intention",
+      "desc": "Dans notre atelier de Niamey, nous superposons empâtements texturés et nuances naturelles. Nos artistes soignent chaque détail pour offrir un rendu premium et sur-mesure."
+    },
+    "step3": {
+      "title": "3. Un Espace Transformé",
+      "desc": "Le résultat final est plus qu'un simple tableau. C'est une atmosphère — raffinée, accueillante et unique — qui transforme durablement votre façon de vivre votre espace."
+    }
+  },
+  "impact": {
+    "badge": "NOTRE IMPACT",
+    "title": "L'Art au cœur de notre Terre",
+    "desc": "Lyrabloom ne se limite pas à la beauté. Chaque œuvre que vous accueillez chez vous soutient l'éducation artistique locale et aide à préserver le savoir-faire artisanal traditionnel de notre communauté à Niamey.",
+    "teaser": "Chaque pièce soutient des initiatives locales au Niger.",
+    "cta": "Découvrir l'impact",
+    "alt_interior": "Intérieur avec tableau"
+  },
+  "gallery": {
+    "title": "Œuvres Choisies",
+    "subtitle": "Collection Signature",
+    "description": "Une sélection de créations originales. Explorez la collection en faisant glisser votre curseur — chaque mouvement dévoile une nouvelle pièce.",
+    "category": "Peinture Artisanale",
+    "cta": "Voir la Galerie Complète",
+    "hint_move": "Déplacez votre curseur pour révéler",
+    "hint_drag": "Glissez / Scrollez pour explorer",
+    "reset_view": "Réinitialiser la vue",
+    "collection_number": "Collection {{number}}",
+    "filter_all": "Tout",
+    "filter_portrait": "Portraits",
+    "filter_abstract": "Abstraits",
+    "filter_landscape": "Paysages",
+    "filter_mixed": "Techniques mixtes",
+    "catalogue_view": "Vue Catalogue",
+    "complete": "complète",
+    "pieces": "pièces",
+    "featured": "En vedette",
+    "piece_no": "Pièce n°",
+    "top": "Haut de page",
+    "bottom": "Bas de page",
+    "mode_marquee": "Défilé",
+    "mode_canvas": "Canvas",
+    "mode_trail": "Trail",
+    "mode_grid": "Grille",
+    "view_mode": "Mode de vue",
+    "the_gallery": "La Galerie",
+    "works": "Œuvres",
+    "selected": "Choisies",
+    "studio": "Lyrabloom Atelier",
+    "collection_niamey": "Collection Niamey",
+    "works_count": "{{count}} œuvres · Collection complète",
+    "piece_prefix": "n°",
+    "studio_location": "Lyrabloom · Niamey",
+    "collection_title": "Collection",
+    "artworks": {
+      "piece1": "Champs du Nord",
+      "desc_piece1": "Créée lors d'un voyage initiatique dans le nord, cette toile raconte l'histoire des terres agricoles asséchées par le soleil. Chaque couche d'ocre a été minutieusement appliquée à la main pour reproduire les craquelures naturelles du sol, symbolisant la résilience de la nature.",
+      "piece2": "Aube Sablonneuse",
+      "desc_piece2": "Inspirée par la première lueur du matin à Niamey, cette œuvre est une ode au réveil de la ville. Les nuances chaudes et la texture rugueuse capturent ce moment suspendu où le vent du désert rencontre la chaleur naissante, offrant un sentiment de calme profond.",
+      "piece3": "Terrasses",
+      "desc_piece3": "Une exploration des formes architecturales traditionnelles. Ce tableau est né de l'observation des terrasses en pisé, sculptées par les éléments. La géométrie irrégulière raconte l'histoire du travail manuel et de la construction humaine en harmonie avec l'environnement.",
+      "piece4": "Le Fleuve",
+      "desc_piece4": "Un hommage au fleuve Niger. Les mouvements fluides et les teintes profondes de cette œuvre ont été réalisés avec des gestes amples et continus, reflétant le courant paisible mais puissant de l'eau. C'est une invitation à la contemplation et au lâcher-prise.",
+      "piece5": "Éclats d'Ocre",
+      "desc_piece5": "Cette pièce met à l'honneur les pigments naturels extraits de notre terre. Ce tableau a été conçu comme une célébration de la matière brute, où chaque imperfection de la surface fait partie intégrante de son histoire unique et de son caractère."
+    },
+    "dimensions": "Dimensions"
+  },
+  "footer": {
+    "contact_orders": "Contact & Commandes",
+    "sublime": "Sublimez",
+    "your_walls": "vos murs.",
+    "delivery_info": "Livraison de tableaux décoratifs sur-mesure partout au Niger et à l'international.",
+    "write_us": "Écrivez-nous",
+    "rights_reserved": "Tous droits réservés.",
+    "legal_mentions": "Mentions Légales",
+    "privacy": "Confidentialité",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn"
+  },
+  "seo": {
+    "title": "Lyrabloom | Peinture de Tableaux & Décoration d'Intérieur au Niger",
+    "description": "Lyrabloom est un studio créatif au Niger spécialisé dans la peinture décorative de tableaux. Sublimez vos intérieurs avec des œuvres originales, inspirées de la terre et de l'art.",
+    "og_title": "Lyrabloom | Peinture de Tableaux & Décoration d'Intérieur",
+    "og_description": "Sublimez vos intérieurs avec des toiles abstraites contemporaines, créées à Niamey."
+  }
+}

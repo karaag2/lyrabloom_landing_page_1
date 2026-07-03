@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "vision": "Vision",
+    "process": "Process",
+    "contact": "Contact",
+    "navigation": "Navigation",
+    "language": "Language",
+    "appearance": "Appearance",
+    "location_label": "Location",
+    "studio": "Studio",
+    "close": "Close",
+    "menu": "Menu"
+  },
+  "hero": {
+    "location": "Niamey, Niger",
+    "title": "Art That Speaks Your Language.",
+    "description": "Hand-finished decorative paintings from our Niamey studio. We blend modern minimalism with rich, organic textures to create unique pieces that turn your house into a home.",
+    "cta": "Explore the Collection",
+    "works_in_collection": "Works in Collection",
+    "artifacts_count": "91+ Artifacts"
+  },
+  "vision": {
+    "badge": "Our Essence",
+    "text": "Lyrabloom was born from a simple belief: your space should inspire you. We combine contemporary design with the raw, earthy textures of Niger to create powerful works that bring character and warmth to any interior.",
+    "foundation": "Foundation",
+    "essence": "Spirit",
+    "location": "Niamey Studio",
+    "essence_text": "Earth & Art",
+    "roots": "ROOTS",
+    "alt_interior": "Lyrabloom painting in an interior"
+  },
+  "process": {
+    "step1": {
+      "title": "1. Your Vision, Our Guide",
+      "desc": "Every piece begins with a conversation. We study your space, light, and color palette to ensure your painting feels like a natural extension of your home."
+    },
+    "step2": {
+      "title": "2. Handcrafted with Intention",
+      "desc": "In our Niamey atelier, we build layers of textured impasto and natural tones. Our artists focus on the small details that give each piece its premium, bespoke feel."
+    },
+    "step3": {
+      "title": "3. A Space Transformed",
+      "desc": "The final result is more than art on a wall. It’s an atmosphere—refined, welcoming, and uniquely yours—that transforms the way you experience your space."
+    }
+  },
+  "gallery": {
+    "title": "Selected Works",
+    "subtitle": "Signature Collection",
+    "description": "A selection of original creations. Explore the collection by moving your cursor — each movement reveals a new piece.",
+    "category": "Hand-finished Painting",
+    "cta": "View Full Gallery",
+    "hint_move": "Move your cursor to reveal",
+    "hint_drag": "Drag / Scroll to explore",
+    "reset_view": "Reset View",
+    "collection_number": "Collection {{number}}",
+    "filter_all": "All",
+    "filter_portrait": "Portraits",
+    "filter_abstract": "Abstracts",
+    "filter_landscape": "Landscapes",
+    "filter_mixed": "Mixed Media",
+    "catalogue_view": "Catalogue View",
+    "complete": "complete",
+    "pieces": "pieces",
+    "featured": "Featured",
+    "piece_no": "Piece No.",
+    "top": "Back to top",
+    "bottom": "To bottom",
+    "mode_marquee": "Marquee",
+    "mode_canvas": "Canvas",
+    "mode_trail": "Trail",
+    "mode_grid": "Grid",
+    "view_mode": "View Mode",
+    "the_gallery": "The Gallery",
+    "works": "Works",
+    "selected": "Selected",
+    "studio": "Lyrabloom Atelier",
+    "collection_niamey": "Niamey Collection",
+    "works_count": "{{count}} works · Complete Collection",
+    "piece_prefix": "No.",
+    "studio_location": "Lyrabloom · Niamey",
+    "collection_title": "Collection",
+    "artworks": {
+      "piece1": "Fields of the North",
+      "desc_piece1": "Created during an initiation journey to the north, this canvas tells the story of agricultural lands dried by the sun. Each layer of ochre was meticulously applied by hand to reproduce the natural cracks of the soil, symbolizing the resilience of nature.",
+      "piece2": "Sandy Dawn",
+      "desc_piece2": "Inspired by the first morning light in Niamey, this work is an ode to the city's awakening. The warm shades and rough texture capture that suspended moment when the desert wind meets the rising heat, offering a sense of deep calm.",
+      "piece3": "Terraces",
+      "desc_piece3": "An exploration of traditional architectural forms. This painting was born from the observation of mud-brick terraces, sculpted by the elements. The irregular geometry tells the story of manual labor and human construction in harmony with the environment.",
+      "piece4": "The River",
+      "desc_piece4": "A tribute to the Niger River. The fluid movements and deep hues of this work were created with broad, continuous gestures, reflecting the peaceful yet powerful current of the water. It is an invitation to contemplation and letting go.",
+      "piece5": "Ochre Shards",
+      "desc_piece5": "This piece honors the natural pigments extracted from our earth. This painting was designed as a celebration of raw matter, where every imperfection of the surface is an integral part of its unique history and character."
+    },
+    "dimensions": "Dimensions"
+  },
+  "impact": {
+    "badge": "OUR IMPACT",
+    "title": "Art with a heart for our Soil",
+    "desc": "Lyrabloom is about more than just beauty. Every work you welcome into your home supports local artistic education and helps preserve the traditional craftsmanship of our community in Niamey.",
+    "teaser": "Every piece supports local initiatives in Niger.",
+    "cta": "Discover the impact",
+    "alt_interior": "Interior with painting"
+  },
+  "footer": {
+    "contact_orders": "Contact & Orders",
+    "sublime": "Elevate",
+    "your_walls": "your walls.",
+    "delivery_info": "Delivery of custom-made decorative paintings throughout Niger and internationally.",
+    "write_us": "Write to us",
+    "rights_reserved": "All rights reserved.",
+    "legal_mentions": "Legal Mentions",
+    "privacy": "Privacy Policy",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn"
+  },
+  "seo": {
+    "title": "Lyrabloom | Hand-painted Art & Interior Decoration in Niger",
+    "description": "Lyrabloom is a creative studio in Niger specializing in decorative painting. Elevate your interiors with original works, inspired by earth and art.",
+    "og_title": "Lyrabloom | Hand-painted Art & Interior Decoration",
+    "og_description": "Elevate your interiors with contemporary abstract paintings, created in Niamey."
+  }
+}
